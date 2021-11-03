@@ -42,6 +42,11 @@ Microsoft Team members have come together to develop this training, and they are
 ### After this training, you'll have an opportunity to attend free, live mentorship webinars put on by Microsoft Cloud Advocates! You can do that by completing the [**Post Training Quiz**](https://zealous-pebble-06ae2440f.azurestaticapps.net/quiz/1) - and accessing the meeting links. 
 
 For further preparation for any hackathons or competitions, we recommend [Microsoft Learn](https://docs.microsoft.com/learn/roles/student).
+
+## Build Your Epic Recordings
+
+Check out recordings from our Build Your Epic event on our [MSFT Imagine YouTube Channel](https://www.youtube.com/playlist?list=PL6ihFEvicZRChfRGrshY5cm4nrBRu8yDT), including AMAs on the Imagine Cup categories and Azure Bootcamp Workshops.
+
 ## Offline access
 
 You can run this documentation offline by using [Docsify](https://docsify.js.org/#/). Fork this repo, [install Docsify](https://docsify.js.org/#/quickstart) on your local machine,  then in the root folder of this repo, type `docsify serve`. The website will be served on port 3000 on your localhost: `localhost:3000`.
